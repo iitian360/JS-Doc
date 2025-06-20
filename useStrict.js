@@ -17,3 +17,7 @@ console.log(val);
 // Improves performance (some JS engines optimize strict mode code better)
 // Makes your code more secure and predictable
 // Helps with future-proofing (some features are only allowed in strict mode)
+
+
+// temp cmt
+
